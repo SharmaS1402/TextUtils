@@ -2,8 +2,8 @@
 Welcome to TextUtils, a powerful yet simple text analysis and manipulation tool built with React.js. TextUtils allows you to perform various operations on your text with ease and efficiency. Whether you want to convert text to uppercase, lowercase, copy it, clear it, or analyze its word count and reading time, TextUtils has got you covered.
 
 # **Features**
-**Convert Text to Uppercase**: Transform your text to all uppercase letters with a single click.
-**Convert Text to Lowercase**: Change your text to all lowercase letters effortlessly.
+**Convert Text to Uppercase**: Transform your text to all uppercase letters with a single click.  
+**Convert Text to Lowercase**: Change your text to all lowercase letters effortlessly.  
 **Copy Text**: Copy the entire text to your clipboard with just one click.
 **Clear Text**: Remove all text from the input area instantly.
 **Word Count**: Get the number of words in your text.
